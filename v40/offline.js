@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1638265968,
+	"version": 1638267917,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -201,7 +201,6 @@
 		"css3_type_file.css",
 		"sporttactic.js",
 		"ads.txt",
-		"ga_init.js",
 		"zlib_and_gzip.min.js",
 		"adapter.js",
 		"jquery.fancybox.pack.js",
